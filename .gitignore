@@ -1,4 +1,3 @@
 virtual/
-flaskblog/__pycache__
 flaskblog/site.db
 .vscode/
